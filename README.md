@@ -1,5 +1,6 @@
 <img src="./assets/react-native-audio-api-gh-cover.png?v0.0.1" alt="React Native Audio API" width="100%">
 
+[![Ad](https://revive-adserver.swmansion.com/www/images/debug-zone-github?n=150828)](https://revive-adserver.swmansion.com/www/delivery/ck-slug.php?zoneid=debug-zone-github&n=150828)
 [![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-audio-api-1?n=1)](https://swm-delivery.com/www/delivery/ck.php?zoneid=zone-gh-react-native-audio-api-1&n=1)
 [![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-audio-api-2?n=1)](https://swm-delivery.com/www/delivery/ck.php?zoneid=zone-gh-react-native-audio-api-2&n=1)
 [![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-audio-api-3?n=1)](https://swm-delivery.com/www/delivery/ck.php?zoneid=zone-gh-react-native-audio-api-3&n=1)
